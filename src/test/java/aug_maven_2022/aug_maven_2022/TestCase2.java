@@ -8,7 +8,7 @@ public class TestCase2 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		String chromepath="C:\\Users\\nunep\\Desktop\\Divya\\JAVA Classes\\chromedriver_103\\chromedriver.exe";
+		String chromepath="C:\\Users\\Owner\\Desktop\\testing\\chromedriver_104\\chromedriver.exe";
 		String url="https://mail.rediff.com/cgi-bin/login.cgi";
 		System.setProperty("webdriver.chrome.driver", chromepath);
 		WebDriver driver=new ChromeDriver();
