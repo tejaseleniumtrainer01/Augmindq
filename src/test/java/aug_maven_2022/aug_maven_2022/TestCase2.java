@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TestCase2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		String chromepath="C:\\Users\\nunep\\Desktop\\Divya\\JAVA Classes\\chromedriver_103\\chromedriver.exe";
 		String url="https://mail.rediff.com/cgi-bin/login.cgi";
