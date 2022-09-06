@@ -11,7 +11,6 @@ public class Testcase4 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-
 		String chromepath="C:\\Users\\jaswa\\OneDrive\\Desktop\\selenium\\chromedriver_104\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", chromepath);
 		WebDriver driver=new ChromeDriver();
